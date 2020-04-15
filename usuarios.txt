@@ -1,0 +1,4 @@
+Entrar
+("orlaida","1993/07/16","orlaidamf@hotmail.com","123456");
+    CrearUsuarios("Alicia Torre","1992/01/16","Alicia@hotmail.com","123456");
+    CrearUsuarios("Fernando torres","1990/01/16","fernando@.com","123456");
